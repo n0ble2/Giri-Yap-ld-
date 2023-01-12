@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\bin\Debug\metod.exe.config
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\bin\Debug\metod.exe
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\bin\Debug\metod.pdb
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\obj\Debug\metod.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\obj\Debug\metod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\obj\Debug\metod.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\obj\Debug\metod.exe
+C:\Users\Pc\Desktop\Bütün projeler\Csharp metod\metod\metod\obj\Debug\metod.pdb
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\bin\Debug\metod.exe.config
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\bin\Debug\metod.exe
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\bin\Debug\metod.pdb
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\obj\Debug\metod.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\obj\Debug\metod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\obj\Debug\metod.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\obj\Debug\metod.exe
+C:\Users\Pc\Desktop\Bütün projeler\Login\Login\metod\obj\Debug\metod.pdb
